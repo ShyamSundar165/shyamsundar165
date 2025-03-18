@@ -24,9 +24,18 @@ I'm a skilled **Data Analyst** with expertise in turning raw data into meaningfu
 
 Here are some of the projects I've worked on:
 
-1. **Sales Insights Dashboard (Power BI)**  
-   _Created a dynamic Power BI dashboard to track sales performance and trends._  
-   ![Sales Dashboard](https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
+ 
+ **Business 360 - Brick & mortar and ecommerce **([Power BI | SQL | Excel | Dax Studio])	                    
+●	Customized a multi-functional Power BI dashboard to analyze AtliQ hardware's sales trends over the global market by gathering data from 2 different sources (Excel/CSV files and a SQL database).
+●	Built data model and visualizations in Power BI, and optimized the report with DAX studio which improved the performance of the report by 5%. 
+
+Sales Insights – Brick & mortar business [Power BI | SQL]	 
+●	Designed a Power BI dashboard to understand AtliQ hardware’s last 4 years' sales trends. sales, finance, supply chain,Marketing view)
+●	Led the initiative of displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions. 
+●	Created a dashboard projected to increase revenue by at least 7% in the next quarter.
+
+  
+   ![Click Here ](https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
 
 2. **Customer Segmentation (Python & MySQL)**  
    _Clustered customers using K-means to identify distinct groups for targeted marketing._  
