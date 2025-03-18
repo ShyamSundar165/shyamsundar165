@@ -37,9 +37,8 @@ Sales Insights – Brick & mortar business [Power BI | SQL]
   
   Click Here to See Project: ![Project Link ](https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
 
-2Domain/Function: Hospitality
+2.Domain/Function: Hospitality
 
-AtliQ Grands faces declining market share and revenue due to competition and strategic challenges. This project leverages hospitality analytics to deliver key metrics like ADR, RevPAR, and Occupancy%,. These insights enabling data-driven decisions to drive growth.
 Project Details
 
 Project Overview :- AtliQ Grands has seen a decline in its market share and revenue due to competitive pressures and management decisions. This project is centered around revitalizing the business by utilizing hospitality analytics to make well-informed decisions.
