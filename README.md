@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 
 1. **Sales Insights Dashboard (Power BI)**  
    _Created a dynamic Power BI dashboard to track sales performance and trends._  
-   ![Sales Dashboard](https://via.placeholder.com/600x300.png?text=Power+BI+Dashboard)
+   ![Sales Dashboard](https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
 
 2. **Customer Segmentation (Python & MySQL)**  
    _Clustered customers using K-means to identify distinct groups for targeted marketing._  
