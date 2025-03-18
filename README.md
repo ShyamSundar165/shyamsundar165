@@ -35,11 +35,25 @@ Sales Insights – Brick & mortar business [Power BI | SQL]
 ●	Created a dashboard projected to increase revenue by at least 7% in the next quarter.
 
   
-  Click Here to See Project ![Project Link ] (https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
+  Click Here to See Project: ![Project Link ](https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
 
-2. **Customer Segmentation (Python & MySQL)**  
-   _Clustered customers using K-means to identify distinct groups for targeted marketing._  
-   ![Customer Segmentation](https://via.placeholder.com/600x300.png?text=Customer+Segmentation)
+2Domain/Function: Hospitality
+
+AtliQ Grands faces declining market share and revenue due to competition and strategic challenges. This project leverages hospitality analytics to deliver key metrics like ADR, RevPAR, and Occupancy%,. These insights enabling data-driven decisions to drive growth.
+Project Details
+
+Project Overview :- AtliQ Grands has seen a decline in its market share and revenue due to competitive pressures and management decisions. This project is centered around revitalizing the business by utilizing hospitality analytics to make well-informed decisions.
+
+Project Goal :- This project aims to boost AtliQ Grands' market share and revenue within the luxury business hotel sector. The company aims to surpass competitors and enhance management decision-making by applying data-driven strategies and business intelligence.
+
+Dataset: Designed a STAR SCHEMA comprising three dimension tables and two fact tables for efficient data modeling.
+Key Metrics:-
+𝗥𝗲𝘃𝗣𝗔𝗥 (Revenue Per Available Room): A critical metric for understanding revenue generation.
+𝗔𝗗𝗥 (Average Daily Rate): Analyzing the average rate paid for rooms sold.
+𝗗𝗕𝗥𝗡 (Daily Booked Room Nights): Tracking daily room bookings.
+𝗗𝗦𝗥𝗡 (Daily Sellable Room Nights): The number of rooms available for sale each day.
+
+Click Here to see Project: ![Project Link](https://github.com/ShyamSundar165/AtliQ-Hotel-Chains-Power-BI)
 
 3. **Financial Performance Dashboard (Tableau)**  
    _Developed an interactive Tableau dashboard to showcase financial KPIs._  
