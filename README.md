@@ -37,7 +37,7 @@ Sales Insights – Brick & mortar business [Power BI | SQL]
   
   Click Here to See Project: ![Project Link ](https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
 
-2.Domain/Function: Hospitality
+2.Domain/Function: Hospitality[Power BI | Excel]
 
 Project Details
 
