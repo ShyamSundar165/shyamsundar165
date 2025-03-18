@@ -35,7 +35,7 @@ Sales Insights – Brick & mortar business [Power BI | SQL]
 ●	Created a dashboard projected to increase revenue by at least 7% in the next quarter.
 
   
-  CLick Here to See Project ![Project Link ](https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
+  Click Here to See Project ![Project Link ] (https://github.com/ShyamSundar165/Power-Bi-Business-Insight-360)
 
 2. **Customer Segmentation (Python & MySQL)**  
    _Clustered customers using K-means to identify distinct groups for targeted marketing._  
